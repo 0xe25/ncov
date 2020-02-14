@@ -15,3 +15,6 @@ Shandong/IVDC-SD-001/2020
 Beijing/IVDC-BJ-005/2020
 Henan/IVDC-HeN-002/2020
 Shanghai/IVDC-SH-001/2020
+
+# These exist as duplicate strain IDs on GISAID with different `gisaid_epi_isl`s
+Italy/INMI1/2020
